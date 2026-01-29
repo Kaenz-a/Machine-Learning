@@ -1,15 +1,7 @@
-#This code created and runned at google colab with default libraries. Imported libraries to the code:
+#This code created and runned at google colab with default libraries. with pip install -r requirements.txt these requirements can be installed.
 pandas
-SMOTENC from imblearn.over_sampling
-train_test_split from sklearn.model_selection
-Counter from collections
-ColumnTransformer from sklearn.compose 
-OneHotEncoder from sklearn.preprocessing
-DummyClassifier from sklearn.dummy 
-RandomForestClassifier from sklearn.ensemble 
-LogisticRegression from sklearn.linear_model
-GridSearchCV from sklearn.model_selection 
-classification_report from sklearn.metrics 
-RandomForestClassifier from sklearn.ensemble
-XGBClassifier from xgboost import
-classification_report, f1_score, roc_auc_score from sklearn.metrics
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+xgboost
