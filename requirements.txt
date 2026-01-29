@@ -1,4 +1,4 @@
-This code created and runned at google colab with default libraries. Imported libraries to the code:
+#This code created and runned at google colab with default libraries. Imported libraries to the code:
 pandas
 SMOTENC from imblearn.over_sampling
 train_test_split from sklearn.model_selection
